@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Esplora</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">Address List</string>
+    <string name="history_trans">History  Transaction</string>
+    <string name="txid">TXID</string>
+    <string name="value">Value</string>
+    <string name="size">Size</string>
+    <string name="fee">FEE</string>
+    <string name="confirm">Confirm</string>
+    <string name="unconfirm">Unconfirm</string>
+    <string name="no_trans">"No Transaction "</string>
+</resources>
